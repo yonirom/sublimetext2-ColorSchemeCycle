@@ -1,0 +1,20 @@
+{
+	"schema_version": "1.2",
+	"packages": [
+		{
+			"name": "Color Scheme Cycle",
+			"description": "A very simple plugin that lets you cycle between installed color schemes.",
+			"author": "yonirom",
+			"homepage": "https://github.com/damccull/sublimetext2-",
+			"last_modified": "2013-02-18 21:00:00",
+			"platforms": {
+				"*": [
+					{
+						"version": "0.1",
+						"url": "https://nodeload.github.com/damccull/sublimetext2-ColorSchemeCycle/zip/v0.1"
+					}
+				]
+			}
+		}
+	]
+}
