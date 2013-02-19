@@ -4,4 +4,4 @@
 Install using [Package Control][packagecontrol] plugin
 
 ##Usage
-Cycle through installed themes with shift-f7/shift-f8. If you installed a new theme use ctrl-shift-f7 to rescan. 
+Cycle through installed themes with f8/shift-f8. If you installed a new theme use ctrl-shift-f8 to rescan. 

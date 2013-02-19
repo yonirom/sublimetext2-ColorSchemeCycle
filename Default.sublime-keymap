@@ -1,5 +1,5 @@
 [
-	{ "keys": ["ctrl+shift+f7"], "command": "color_scheme_cycle", "args": { "direction": "cache" } },
-	{ "keys": ["shift+f7"], "command": "color_scheme_cycle", "args": { "direction": "left" } },
-	{ "keys": ["shift+f8"], "command": "color_scheme_cycle", "args": { "direction": "right" } }
+	{ "keys": ["ctrl+shift+f8"], "command": "color_scheme_cycle", "args": { "direction": "cache" } },
+	{ "keys": ["shift+f8"], "command": "color_scheme_cycle", "args": { "direction": "left" } },
+	{ "keys": ["f8"], "command": "color_scheme_cycle", "args": { "direction": "right" } }
 ]
