@@ -10,8 +10,8 @@
 			"platforms": {
 				"*": [
 					{
-						"version": "0.9",
-						"url": "https://github.com/yonirom/sublimetext2-ColorSchemeCycle/archive/0.9.zip"
+						"version": "1.0",
+						"url": "https://nodeload.github.com/yonirom/sublimetext2-ColorSchemeCycle/zip/1.0"
 					}
 				]
 			}

@@ -23,7 +23,7 @@ class ColorSchemeCycle(sublime_plugin.ApplicationCommand):
 		direction = args['direction']
 		if direction == 'left':
 			self.themes.rotate(1)
-		else if direction == 'right':
+		elif direction == 'right':
 			self.themes.rotate(-1)
 		sublime.status_message("Theme: " + os.path.basename(self.themes[0])[:-8])
 		settings.set("color_scheme",self.themes[0])
